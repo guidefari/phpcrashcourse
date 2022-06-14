@@ -2,6 +2,7 @@
 - following along [Traversy media crash course](https://youtu.be/BUCiSSyIGGU)
 - Using docker compose, instead of xampp
   - [here's an article I used](https://dev.to/truthseekers/setup-a-basic-local-php-development-environment-in-docker-kod) to help me get started with that
+- [PHP buys lambos](https://twitter.com/taylorotwell/status/1534178479201259520)
 
 # 01_output
 - closing tags are optional, unless you have something underneath them.
